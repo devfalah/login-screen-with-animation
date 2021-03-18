@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Preview (Screens)
 
-![](demo/k2813260785.gif) 
+![](demo/demo.gif) 
